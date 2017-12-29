@@ -1,6 +1,8 @@
-TEST Purpose 
-Try to merge differect technologies from other coins
+NOT TO BE LAUNCH or RELAUNCH.
 
+======================================
+FORMER README
+=======================================
 =======
 VirtaCoin Core integration/staging tree
 =====================================
